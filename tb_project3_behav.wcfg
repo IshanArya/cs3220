@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_project3_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_project3" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4872333fs"></ZoomStartTime>
+      <ZoomEndTime time="5025534fs"></ZoomEndTime>
+      <Cursor1Time time="5000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="204"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/tb_project3/CLOCK_50" type="logic">
+      <obj_property name="ElementShortName">CLOCK_50</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_50</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/RESET_N" type="logic">
+      <obj_property name="ElementShortName">RESET_N</obj_property>
+      <obj_property name="ObjectShortName">RESET_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/KEY" type="array">
+      <obj_property name="ElementShortName">KEY[3:0]</obj_property>
+      <obj_property name="ObjectShortName">KEY[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/HEX0" type="array">
+      <obj_property name="ElementShortName">HEX0[6:0]</obj_property>
+      <obj_property name="ObjectShortName">HEX0[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/HEX1" type="array">
+      <obj_property name="ElementShortName">HEX1[6:0]</obj_property>
+      <obj_property name="ObjectShortName">HEX1[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/LEDR" type="array">
+      <obj_property name="ElementShortName">LEDR[9:0]</obj_property>
+      <obj_property name="ObjectShortName">LEDR[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_FE_stage/PC_FE_latch" type="array">
+      <obj_property name="ElementShortName">PC_FE_latch[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_FE_latch[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_DE_stage/PC_DE" type="array">
+      <obj_property name="ElementShortName">PC_DE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_DE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_AGEX_stage/PC_AGEX" type="array">
+      <obj_property name="ElementShortName">PC_AGEX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_AGEX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_MEM_stage/PC_MEM" type="array">
+      <obj_property name="ElementShortName">PC_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_WB_stage/PC_WB" type="array">
+      <obj_property name="ElementShortName">PC_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_project3/myprj/my_FE_stage/inst_FE" type="array">
+      <obj_property name="ElementShortName">inst_FE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_FE[31:0]</obj_property>
+   </wvobject>
+</wave_config>
